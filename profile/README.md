@@ -13,4 +13,7 @@ Currently work-in-progress.
 
 <h2>Design Artists</h2>
 <b>Wendrous</b> (Wendi)
+
+<h2>Music Artists</h2>
+<b>JoTamaXIII</b> (Kohu)
 </div>
