@@ -1,26 +1,15 @@
-<div align="center">
 <img src="https://github.com/PKMNTrebleBass/.github/blob/main/profile/Logo.png?raw=true" width="300">
-<h1>Pokémon Treble and Bass</h1>
-Currently work-in-progress.
+<h3>Official workspace for Pokémon Treble and Bass team.</h3>
 
-<h2>Programmers</h2>
-<b>Wendrous</b> (Wendi)<br>
-<b>Will-o-Argonauta</b> (Will)
+| Role | Members |
+| --- | --- |
+| Programmers | Wendrous, Will-o-Argonauta |
+| Writers | Wendrous, JustDan21 |
+| Game Balancers | Salt-Kitchen, Spook-Lord, The-Gaben |
+| Design Artists | Wendrous, NovaNeps, piscesonu |
+| Music Artists | JoTamaXIII |
 
-<h2>Writers</h2>
-<b>Wendrous</b> (Wendi)<br>
-<b>JustDan21</b> (Dan)
-
-<h2>Meta Balancers</h2>
-<b>Salt-Kitchen</b> (Salt)<br>
-<b>Spook-Lord</b> (Leanne)<br>
-<b>The-Gaben</b> (Gaben)
-
-<h2>Design Artists</h2>
-<b>Wendrous</b> (Wendi)<br>
-<b>piscesonu</b> (Pis)<br>
-<b>NovaNeps</b> (Nova)
-
-<h2>Music Artists</h2>
-<b>JoTamaXIII</b> (Kohu)
-</div>
+> [!NOTE]
+> © 2002–2025 Pokémon.
+>© 1995–2025 Nintendo/Creatures Inc./GAME FREAK inc.
+> TM, ® and Pokémon character names are trademarks of Nintendo. No copyright or trademark infringement is intended in using Pokémon content in this project.
