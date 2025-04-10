@@ -1,4 +1,5 @@
 <div align="center">
+<img src="https://github.com/PKMNTrebleBass/.github/blob/main/profile/Logo.png?raw=true" width="300">
 <h1>Pokémon Treble and Bass</h1>
 Currently work-in-progress.
 
